@@ -1,0 +1,85 @@
+﻿keys,name,url,population
+RU_MOS,Московская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/1.json,7503385
+RU_LEN,Ленинградская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10174.json,1813816
+RU_NEN,Ненецкий автономный округ,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10176.json,43997
+RU_AL,Республика Алтай,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10231.json,218063
+RU_TY,Республика Тыва,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10233.json,321722
+RU_YEV,Еврейская автономная область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10243.json,162014
+RU_CHU,Чукотский автономный округ,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10251.json,49348
+RU_BEL,Белгородская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10645.json,1549876
+RU_BRY,Брянская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10650.json,1210982
+RU_VLA,Владимирская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10658.json,1378337
+RU_VOR,Воронежская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10672.json,2333768
+RU_IVA,Ивановская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10687.json,1014646
+RU_KLU,Калужская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10693.json,1012156
+RU_KOS,Костромская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10699.json,643324
+RU_KRS,Курская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10705.json,1115237
+RU_LIP,Липецкая область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10712.json,1150201
+RU_ORL,Орловская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10772.json,747247
+RU_RYA,Рязанская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10776.json,1121474
+RU_SMO,Смоленская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10795.json,949348
+RU_TAM,Тамбовская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10802.json,1033552
+RU_TVE,Тверская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10819.json,1283873
+RU_TUL,Тульская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10832.json,1491855
+RU_YAR,Ярославская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10841.json,1265684
+RU_ARK,Архангельская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10842.json,1111031
+RU_VLG,Вологодская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10853.json,1176689
+RU_KGD,Калининградская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10857.json,994599
+RU_MUR,Мурманская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10897.json,753557
+RU_NGR,Новгородская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10904.json,606476
+RU_PSK,Псковская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10926.json,636546
+RU_KR,Республика Карелия,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10933.json,622484
+RU_KO,Республика Коми,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10939.json,840873
+RU_AST,Астраханская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10946.json,1017514
+RU_VGG,Волгоградская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10950.json,2521276
+RU_KDA,Краснодарский край,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/10995.json,5603420
+RU_AD,Республика Адыгея,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11004.json,453376
+RU_DA,Республика Дагестан,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11010.json,3063885
+RU_IN,Республика Ингушетия,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11012.json,488043
+RU_KB,Кабардино-Балкарская Республика,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11013.json,865828
+RU_KL,Республика Калмыкия,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11015.json,275413
+RU_KC,Карачаево-Черкесская Республика,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11020.json,466305
+RU_SE,Республика Северная Осетия — Алания,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11021.json,701765
+RU_CE,Чеченская Республика,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11024.json,1436981
+RU_ROS,Ростовская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11029.json,4220452
+RU_STA,Ставропольский край,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11069.json,2800674
+RU_KIR,Кировская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11070.json,1283238
+RU_ME,Республика Марий Эл,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11077.json,682333
+RU_NIZ,Нижегородская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11079.json,3234752
+RU_ORE,Оренбургская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11084.json,1977720
+RU_PNZ,Пензенская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11095.json,1331655
+RU_PER,Пермский край,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11108.json,2623122
+RU_BA,Республика Башкортостан,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11111.json,4063293
+RU_MO,Республика Мордовия,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11117.json,805056
+RU_TA,Республика Татарстан,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11119.json,3894284
+RU_SAM,Самарская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11131.json,3193514
+RU_SAR,Саратовская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11146.json,2462950
+RU_UD,Удмуртская Республика,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11148.json,1513044
+RU_ULY,Ульяновская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11153.json,1246618
+RU_CU,Чувашская Республика,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11156.json,1231117
+RU_KGN,Курганская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11158.json,845537
+RU_SVE,Свердловская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11162.json,4325256
+RU_TYU,Тюменская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11176.json,1498779
+RU_KHM,Ханты-Мансийский автономный округ — Югра,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11193.json,1655074
+RU_CHE,Челябинская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11225.json,3493036
+RU_YAN,Ямало-Ненецкий автономный округ,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11232.json,538547
+RU_ALT,Алтайский край,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11235.json,2350080
+RU_IRK,Иркутская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11266.json,2404195
+RU_KEM,Кемеровская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11282.json,2694877
+RU_KYA,Красноярский край,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11309.json,2876497
+RU_NVS,Новосибирская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11316.json,2788849
+RU_OMS,Омская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11318.json,1960081
+RU_BU,Республика Бурятия,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11330.json,984511
+RU_KK,Республика Хакасия,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11340.json,537513
+RU_TOM,Томская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11353.json,1078280
+RU_AMU,Амурская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11375.json,798424
+RU_KAM,Камчатский край,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11398.json,315557
+RU_MAG,Магаданская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11403.json,144091
+RU_PRI,Приморский край,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11409.json,1913037
+RU_SA,Республика Саха (Якутия),https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11443.json,964330
+RU_SAK,Сахалинская область,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11450.json,490181
+RU_KHA,Хабаровский край,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/11457.json,1328302
+RU_SPE,Санкт-Петербург,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/2.json,5351935
+RU_MOW,Москва,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/213.json,12506468
+RU_ZAB,Забайкальский край,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/21949.json,1072806
+RU_CR,Республика Крым,https://yastat.net/s3/milab/2020/covid19-stat/data/data-by-region/977.json,1913731
